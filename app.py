@@ -342,7 +342,6 @@ def main():
             )
 
     st.divider()
-    st.write("If you already have a trained model, place it in the `models/` folder and restart the app.")
 
 
 if __name__ == "__main__":
